@@ -62,11 +62,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("MOON_SOCIETYY")
-                await self.one.join_chat("TheVaporeonNetwork")
-                await self.one.join_chat("TheVaporeonFed_Appeal")
-                await self.one.join_chat("MILKY_WAY_45")
-                await self.one.join_chat("ABOUT_UR_MOON")
+                await self.one.join_chat("Moonshining_Society")
+                await self.one.join_chat("TheWarriorsxNetwork")
+                await self.one.join_chat("FedxNetwork")
+                await self.one.join_chat("Grandxmasti")
+                await self.one.join_chat("About_ur_Moonshining")
             except:
                 pass
             assistants.append(1)
@@ -94,10 +94,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("MOON_SOCIETYY")
-                await self.two.join_chat("ABOUT_UR_MOON")
-                await self.two.join_chat("TheVaporeonNetwork")
-                await self.two.join_chat("MILKY_WAY_45")
+                await self.two.join_chat("Moonshining_Society")
+                await self.two.join_chat("About_ur_Moonshining")
+                await self.two.join_chat("TheWarriorsxNetwork")
+                await self.two.join_chat("Grandxmasti")
             except:
                 pass
             assistants.append(2)
@@ -117,10 +117,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("MOON_SOCIETYY")
-                await self.three.join_chat("ABOUT_UR_MOON")
-                await self.three.join_chat("TheVaporeonNetwork")
-                await self.three.join_chat("MILKY_WAY_45")
+                await self.three.join_chat("Moonshining_Society")
+                await self.three.join_chat("About_ur_Moonshining")
+                await self.three.join_chat("TheWarriorsxNetwork")
+                await self.three.join_chat("Grandxmasti")
             except:
                 pass
             assistants.append(3)
@@ -140,10 +140,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("MOON_SOCIETYY")
-                await self.four.join_chat("ABOUT_UR_MOON")
-                await self.four.join_chat("TheVaporeonNetwork")
-                await self.four.join_chat("MILKY_WAY_45")
+                await self.four.join_chat("Moonshining_Society")
+                await self.four.join_chat("About_ur_Moonshining")
+                await self.four.join_chat("TheWarriorsxNetwork")
+                await self.four.join_chat("Grandxmasti")
             except:
                 pass
             assistants.append(4)
@@ -163,10 +163,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("MOON_SOCIETYY")
-                await self.five.join_chat("ABOUT_UR_MOON")
-                await self.five.join_chat("TheVaporeonNetwork")
-                await self.five.join_chat("MILKY_WAY_45")
+                await self.five.join_chat("Moonshining_Society")
+                await self.five.join_chat("About_ur_Moonshining")
+                await self.five.join_chat("TheWarriorsxNetwork")
+                await self.five.join_chat("Grandxmasti")
             except:
                 pass
             assistants.append(5)
