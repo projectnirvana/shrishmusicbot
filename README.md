@@ -3,12 +3,12 @@
 🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
 <!--
-**Moonshining6/Moonshining6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Moonshining1/Moonshining1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Moonshining6/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Moonshining1/count.svg" />
 </p>
 
 
@@ -22,20 +22,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐌𝐎𝐎𝐍+🎭">
 
 
-<img src="https://telegra.ph/file/aa015718299510040d41f.jpg"> 
-<img src="https://telegra.ph/file/aa015718299510040d41f.jpg">
+<img src="https://telegra.ph/file/a1e74f1efb414810c21ef.jpg"> 
+<img src="https://telegra.ph/file/a1e74f1efb414810c21ef.jpg">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonshining6&repo=MOONMUSICC&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonshining1&repo=MOONMUSIC&theme=flag-india)
 
-[![GIF](https://github.com/Moonshining6/MOONMUSICC/blob/main/Moonshining6.gif)](https://github.com/Moonshining6)
-   [![ABOUT_UR_MOON](https://github-stats-alpha.vercel.app/api?username=Moonshining6 "ABOUT_UR_MOON")](https://github-stats-alpha.vercel.app/api?username=Moonshining6 "ABOUT_UR_MOON")
+[![GIF](https://github.com/Moonshining1/MOONMUSIC/blob/main/Moonshining1.gif)](https://github.com/Moonshining1)
+   [[About_ur_Moonshining](https://github-stats-alpha.vercel.app/api?username=Moonshining1 "About_ur_Moonshining")](https://github-stats-alpha.vercel.app/api?username=Moonshining1 "About_ur_Moonshining")
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/aa015718299510040d41f.jpg">
+  <img src="https://telegra.ph/file/a1e74f1efb414810c21ef.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/Moon_Music_1_Bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/JasminxMusicbot)**
 
 
 
@@ -48,21 +48,21 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Moonshining6/MOONMUSICC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Moonshining6/MOONMUSICC"> <img src="https://telegra.ph/file/aa015718299510040d41f.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Moonshining1/MOONMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Moonshining1/MOONMUSIC"> <img src="https://telegra.ph/file/a1e74f1efb414810c21ef.jpg" width="520" height="198.45"/></a></p>
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐌𝐎𝐎𝐍+𝐃𝐦+...">
 <p align="center">
-<a href="https://telegram.me/ABOUT_UR_MOON"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐌𝐎𝐎𝐍 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ABOUT_UR_MOONshining"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐌𝐎𝐎𝐍 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Moonshining6/MOONMUSICC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Moonshining1/MOONMUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -90,8 +90,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/ABOUT_UR_MOON"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/ABOUT_UR_MOONshining"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://www.instagram.com/blessed_with_shree_krishna"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<img src="https://telegra.ph/file/aa015718299510040d41f.jpg">
-<img src="https://telegra.ph/file/aa015718299510040d41f.jpg">
+<img src="https://telegra.ph/file/a1e74f1efb414810c21ef.jpg">
+<img src="https://telegra.ph/file/a1e74f1efb414810c21ef.jpg">
