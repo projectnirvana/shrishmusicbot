@@ -10,11 +10,11 @@ from typing import Union, Optional
 import random
 
 random_photo = [
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
 ]
 
 # --------------------------------------------------------------------------------- #
