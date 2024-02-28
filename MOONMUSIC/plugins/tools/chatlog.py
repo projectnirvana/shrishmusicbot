@@ -7,11 +7,11 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from MOONMUSIC import app  
 
 photo = [
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
-    "https://telegra.ph/file/aa015718299510040d41f.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
+    "https://telegra.ph/file/a1e74f1efb414810c21ef.jpg",
 ]
 
 
