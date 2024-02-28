@@ -28,7 +28,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonshining1&repo=MOONMUSIC&theme=flag-india)
 
 [![GIF](https://github.com/Moonshining1/MOONMUSIC/blob/main/Moonshining1.gif)](https://github.com/Moonshining1)
-   [[About_ur_Moonshining](https://github-stats-alpha.vercel.app/api?username=Moonshining1 "About_ur_Moonshining")](https://github-stats-alpha.vercel.app/api?username=Moonshining1 "About_ur_Moonshining")
+   [![About_ur_Moonshining](https://github-stats-alpha.vercel.app/api?username=Moonshining1 "About_ur_Moonshining")](https://github-stats-alpha.vercel.app/api?username=Moonshining1 "About_ur_Moonshining")
 
 
 <p align="center">
